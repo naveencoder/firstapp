@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minicalculator</string>
+    <string name="firstNumber">enter a number</string>
+    <string name="mode">    </string>
+    <string name="secondNumber">enter a number</string>
+    <string name="addButton">+</string>
+    <string name="subButton">-</string>
+    <string name="multiplyButton">*</string>
+    <string name="processButton">=</string>
+    <string name="result">Result</string>
+</resources>
